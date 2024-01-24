@@ -1,9 +1,6 @@
 [submodule "smartmeter-service"]
 	path = smartmeter-service
 	url = https://github.com/xBlade58/smart-meter-platform-smartmeterservice.git
-[submodule "household-service"]
-	path = household-service
-	url = https://github.com/xBlade58/smart-meter-platform-householdservice.git
 [submodule "specification"]
 	path = specification
 	url = https://github.com/xBlade58/smart-meter-platform-page.git
