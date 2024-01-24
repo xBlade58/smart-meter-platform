@@ -1,0 +1,15 @@
+[submodule "smartmeter-service"]
+	path = smartmeter-service
+	url = https://github.com/xBlade58/smart-meter-platform-smartmeterservice.git
+[submodule "household-service"]
+	path = household-service
+	url = https://github.com/xBlade58/smart-meter-platform-smartmeterservice.git
+[submodule "specification"]
+	path = specification
+	url = https://github.com/xBlade58/smart-meter-platform-page.git
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/xBlade58/smart-meter-platform-mobile-app.git
+[submodule "concentrator"]
+	path = concentrator
+	url = https://github.com/xBlade58/smart-meter-platform-concentrator.git
