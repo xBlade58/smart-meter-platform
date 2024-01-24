@@ -10,3 +10,6 @@
 [submodule "concentrator"]
 	path = concentrator
 	url = https://github.com/xBlade58/smart-meter-platform-concentrator.git
+[submodule "household-service"]
+	path = household-service
+	url = https://github.com/xBlade58/smart-meter-platform-householdservice.git
